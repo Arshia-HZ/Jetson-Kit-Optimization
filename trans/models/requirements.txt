@@ -1,0 +1,11 @@
+numpy
+imutils
+opencv-python
+pandas
+matplotlib
+tqdm
+#torch==1.0.0
+#torchvision==0.2.1
+openpyxl
+easydict
+PyYAML
