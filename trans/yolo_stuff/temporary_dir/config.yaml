@@ -1,0 +1,5 @@
+path: /home/user/Desktop/trans/yolo_stuff/temporary_dir
+train: images/train
+val: images/val
+
+nc: 1
