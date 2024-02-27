@@ -1,0 +1,4 @@
+NMS reshape:
+Whole average time for {} in sec.: 0.04684395686317892
+batched average time for {} in sec.: 0.07936240880244257
+One sample average time for {} in sec.: 0.01431019852149624
